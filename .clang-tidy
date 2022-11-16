@@ -1,0 +1,12 @@
+Checks: > 
+    clang-diagnostic-*, 
+    clang-analyzer-*,
+    cppcoreguidelines-*,
+    modernize-*,
+    google-*,
+    performance-*,
+    readability-*,
+    -readability-identifier-length,
+    -readability-isolate-declaration,
+    -readability-magic-numbers,
+    -cppcoreguidelines-avoid-magic-numbers
